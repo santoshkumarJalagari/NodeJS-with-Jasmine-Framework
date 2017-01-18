@@ -1,0 +1,15 @@
+{
+  "username": "salesforceramya90@gmail.com",
+  "password": "Ram123&ram",
+  "host": "imap.gmail.com",
+  "port": 993, 
+  "tls": true,
+  "tlsOptions": { "rejectUnauthorized": false },
+  "mailbox": "INBOX", 
+  "searchFilter": ["UNSEEN"],
+  "markSeen": true, 
+  "fetchUnreadOnStart": true, 
+  "mailParserOptions": {"streamAttachments": true}, 
+  "attachments": true, 
+  "attachmentOptions": { "directory": "attachments/" }
+}
