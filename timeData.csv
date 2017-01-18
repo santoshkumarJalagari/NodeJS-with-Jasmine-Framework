@@ -1,0 +1,14 @@
+scenario name, time taken in ms
+The user should be able to open salesforce login page successfully,6655
+The user should be able to login to salesforce successfully,31338
+The user should be able to create a new account in salesforce,9472
+The user should be able to add a contact to a new account in salesforce,4938
+The user should be able to create a new opportunity in salesforce with status Closed Won,4135
+The user should be able to logout from salesforce successfully,1547
+User should be able to open NetSuite login Page,5654
+User should sucessfully loing into NetSuite ,6016
+Secondary Authentication should sucessfully ,9627
+Create new Customer in NetSuite should sucessfully,32063
+Create new opportunity in NetSuite should sucessfully,14062
+Should be able to close opportunity in NetSuite with status won,10490
+Should be able sucessfully lougout from NetSuite,7082
